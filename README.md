@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1> Hello World!👋, I'm Nitesh ,<br> An Enthusiastic ML Engineer : </h1>
-<p>👨🏼‍🎓Studying Computer Science Engineering at UTD-CSVTU , Bhilai <br>🛜 Cure<br>👨🏼‍💻 Working as a Graphic designer since 2021 <br>🎬 Just Started out With My Youtube Channel <i>LoLgoRithmS by Nitesh</i>
+<p>👨🏼‍🎓Studying Computer Science Engineering at UTD-CSVTU , Bhilai <!-- <br>🛜 Cure--> <br>👨🏼‍💻 Working as a Graphic designer since 2021 <br>🎬 Just Started out With My Youtube Channel <i>LoLgoRithmS by Nitesh</i>
 </p>
 <!-- <h2>🚀 Languages and Tools I Use</h2> -->
 <h1> 💻 Tech Stack: </h1>
