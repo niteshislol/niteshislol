@@ -1,7 +1,13 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-<h1> Hello World!👋, I'm Nitesh ,<br> An Enthusiastic ML Engineer : </h1>
+<!-- <h1> Hello World!👋, I'm Nitesh ,<br> An Enthusiastic ML Engineer : </h1>
 <p>👨🏼‍🎓Studying Computer Science Engineering at UTD-CSVTU , Bhilai <!-- <br>🛜 Cure--> <br>👨🏼‍💻 Working as a Graphic designer since 2021 <br>🎬 Just Started out With My Youtube Channel <i>LoLgoRithmS by Nitesh</i>
-</p>
+</p> --> <h1>Welcome to My World! 👋 I'm Nitesh, an Enthusiastic Machine Learning Engineer</h1>
+<p>👨🏼‍🎓 Currently studying <strong>Computer Science Engineering</strong> at <strong>UTD-CSVTU, Bhilai</strong> - Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.</p>
+<p>👨🏼‍💻 I have been working as a <strong>Graphic Designer</strong> since 2021, creating visually appealing designs for various platforms.</p>
+<p>🎬 Recently, I launched my <a href="https://www.youtube.com/c/LoLgoRithmSbyNitesh" target="_blank"><i>YouTube Channel</i> - <strong>LoLgoRithmS by Nitesh</strong></a>, where I share insightful content on <strong>Machine Learning</strong>, <strong>AI Tutorials</strong>, and <strong>Graphic Design Tips</strong>.</p>
+<p>Stay tuned for exciting updates, tutorials, and creative projects!</p>
+
+
 <!-- <h2>🚀 Languages and Tools I Use</h2> -->
 <h1> 💻 Tech Stack: </h1>
 <p dir="auto">
