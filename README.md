@@ -49,6 +49,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;">
   </a>
 </p>
+<h3>Visitor Count</h3>
+<img src="https://profile-counter.glitch.me/niteshislol/count.svg" alt="Visitor Count">
 <!--
   <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
@@ -71,6 +73,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niteshislol/niteshislol/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/niteshislol/niteshislol/output/github-snake.svg" />
 </picture>
+
 <!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshislol&show_icons=true&locale=en" alt="niteshislol" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshislol&" alt="niteshislol" /></p>
