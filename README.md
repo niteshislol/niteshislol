@@ -60,11 +60,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niteshislol/niteshislol/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/niteshislol/niteshislol/output/github-snake.svg" />
 </picture>
-
-<!-- <h2>❤️ Support Me</h2>
+<h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/niteshislol">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p> 
--->
+
