@@ -3,7 +3,7 @@
 <p>👨🏼‍🎓 Currently studying <strong>Computer Science Engineering - Data Science</strong> at <strong>UTD-CSVTU, Bhilai</strong> - Passionate about <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<!-- <br>🛜 Cure--> <br>👨🏼‍💻 Working as a <strong> Graphic designer</strong> since 2021. <br>🎬 Just Started out With My Youtube Channel <strong>LoLgoRithmS by Nitesh</strong></p> 
 
 
-<h2> 💻 Tech Stack : </h2>
+<h2> 💻 Tech-Stack : </h2>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="max-width: 100%;">
